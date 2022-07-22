@@ -1297,7 +1297,7 @@ const model = {
                 "variations": [
                     {
                         "type": "SSML",
-                        "value": "<speak>Escuche <say-as interpret-as='telephone'> {telefono} </say-as> es correcto?</speak>"
+                        "value": "<speak>Escuche <say-as interpret-as='digits'> {telefono} </say-as> es correcto?</speak>"
                     }
                 ]
             },
